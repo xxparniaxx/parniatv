@@ -1,0 +1,110 @@
+#EXTM3U
+#EXTINF:-1,IR - Persiana Rap
+http://51.210.227.163/hls/stream.m3u8
+#EXTINF:-1,IR - Persiana Cinema
+http://168.119.248.171/hls/stream.m3u8
+#EXTINF:-1,IR - High vision
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IR - Oxide TV
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1,IR - Omide Iran
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,IR - Royal time
+https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8
+#EXTINF:-1,IR - 4U
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1,IR - ICC+
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1,IR - GLV
+https://38b3095.online-server.cloud/hls/live.m3u8
+#EXTINF:-1,IR - Persian film
+https://pfilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,IR - AMG
+https://nl.livekadeh.com/hls2/AMG_src.m3u8
+#EXTINF:-1,IR - My movie
+https://mymoviehls.wns.live/hls/stream.m3u8
+#EXTINF:-1,IR - Bravo
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1,IR - Tonix
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,IR - HodHod
+https://hls.hodhod.live/hls/stream.m3u8
+#EXTINF:-1,IR - FarsiTv
+https://live.farsitv.us/live/stream.m3u8
+#EXTINF:-1,IR - SL1
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1,IR - SL2
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1,IR - FX
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,IR - Payam javan
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1,IR - iFilm Persian
+https://cdnlive3.presstv.ir/cdnlive/smil:ifilmtv.smil/playlist.m3u8
+#EXTINF:-1,IR - iFilm Farsi
+https://live1.presstv.ir/live/ifilmfa_360p/index.m3u8
+#EXTINF:-1,IR - iFilm English
+https://live1.presstv.ir/live/ifilmen_360p/index.m3u8
+#EXTINF:-1,IR - iFilm 2
+https://live1.presstv.ir/live/ifilm2_360p/index.m3u8
+#EXTINF:-1,IR - manoto
+https://edge-fr6.manoto.click/live.m3u8
+#EXTINF:-1,IR - Gem series
+https://gg.hls2.xyz/live/IR%20-%20GEM%20SERIES%20HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIzIDM6MjA6MzUgQU0maGFzaF92YWx1ZT1oRW1Oc21ZS2E3UVh4SityWDBJRGl3PT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1,IR - Gem series+
+https://gg.hls2.xyz/live/IR%20-%20GEM%20SERIES%20PLUS%20HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIzIDM6MjM6MDggQU0maGFzaF92YWx1ZT1tV2xtN21wb2VVRFRVSXJrY2xET1VRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1,IR - Gem 
+https://gg.hls2.xyz/live/IR%20-%20GEM%20TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIzIDM6MjU6MjYgQU0maGFzaF92YWx1ZT0rM0tzUkQrZ1VWazVXazZ0cUxBQ3l3PT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1,IR - Gem kids
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Kids%20HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIzIDM6MjY6NTggQU0maGFzaF92YWx1ZT1TbkpsWldNQTFtUDBjRkFhVWdUQStRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1,IR - Toonix                                          
+https://gg.hls2.xyz/live/AP Toonix HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIzIDM6Mjc6NTAgQU0maGFzaF92YWx1ZT00MlpzTWlpZkwyUWVlR2hUM1ZtWGtRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1,IR - Lenz Animation
+"https://gg.hls2.xyz/live/Lenz%20Animation/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIzIDM6Mjk6MjEgQU0maGFzaF92YWx1ZT11Mm5iSExQZS9ldktiUTY0U2w2dURnPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1,IR - Utoon
+https://gg.hls2.xyz/live/IR%20-%20U%20Toon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIzIDM6MzA6MTMgQU0maGFzaF92YWx1ZT1KdEwxSHRzVGJCbjVuU0FQeEhzMVBRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1,IR - Javaneh
+https://ss.90minlive.online/live/irib-javaneh/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIzIDM6MzE6MjAgQU0maGFzaF92YWx1ZT1XdWJwZTJjV2h2TitHUGR2QVpkZldRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1,IR - Persiana family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1,IR - Persiana comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1,IR - Persiana junior
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1,IR - Persiana iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1,IR - Persiana 
+http://51.210.199.1/hls/stream.m3u8
+#EXTINF:-1,IR - Persiana Korea
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1,IR - Persiana one 
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1,IR - Persiana science
+http://51.210.199.26/hls/stream.m3u8
+#EXTINF:-1,IR - Persiana latino
+http://51.210.199.34/hls/stream.m3u8
+#EXTINF:-1,IR - Persiana two
+http://51.210.199.35/hls/stream.m3u8
+#EXTINF:-1,IR - Persiana cinema
+http://168.119.248.171/hls/stream.m3u8
+#EXTINF:-1,IR - Persiana Plus
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1,IR - Persiana HD
+http://51.210.227.147/hls/stream.m3u8
+#EXTINF:-1,IR - 247
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1,IR - MTC
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1,IR - MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1,IR - VOX
+https://hls.vox1.live/hls/stream.m3u8
+#EXTINF:-1,IR - AVA series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1,IR - Today TV
+https://todayhls.wns.live/hls/stream.m3u8
+
+
+
+                                                    
+
